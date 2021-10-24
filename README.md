@@ -1,4 +1,6 @@
 # FriendBotGame
+Repo for the project FriendBot, from FIAP (2019)
+
 Apk and html file for playing the game FriendBoter with a phone or browser (NEEDS CORRECTIONS).
 
 
